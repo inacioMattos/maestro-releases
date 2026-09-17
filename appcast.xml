@@ -4,23 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Wed, 16 Sep 2026 23:24:08 -0700</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.4</title>
+            <pubDate>Thu, 17 Sep 2026 11:21:06 -0700</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.0.3
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.0.4
 
-- [MAE-98: QoL: allow me to Command+A to select all text of my own text box](https://linear.app/maestro-will-dominate/issue/MAE-98/qol-allow-me-to-commanda-to-select-all-text-of-my-own-text-box)
-- [MAE-99: broken task status and loading indicators when message is queued](https://linear.app/maestro-will-dominate/issue/MAE-99/broken-task-status-and-loading-indicators-when-message-is-queued)
-- [MAE-100: auto update window + update now in-app](https://linear.app/maestro-will-dominate/issue/MAE-100/auto-update-window-update-now-in-app)
-- added traces in order to debug [MAE-92: widget lags some graphic applications (for now just Unity)](https://linear.app/maestro-will-dominate/issue/MAE-92/widget-lags-some-graphic-applications-for-now-just-unity) and [MAE-95: widget notification steals input focus](https://linear.app/maestro-will-dominate/issue/MAE-95/widget-notification-steals-input-focus)
+- fix for cmd+a on chat screen
+- [MAE-104: Notch's 'open maestro' does not bring main app into view and focus sometimes](https://linear.app/maestro-will-dominate/issue/MAE-104/notchs-open-maestro-does-not-bring-main-app-into-view-and-focus)
+- [MAE-105: thumbnail drag & drop causes image preview to not working](https://linear.app/maestro-will-dominate/issue/MAE-105/thumbnail-drag-and-drop-causes-image-preview-to-not-working)
+- tentative fix + logs for [MAE-103: replaying markdown animation when opening task](https://linear.app/maestro-will-dominate/issue/MAE-103/replaying-markdown-animation-when-opening-task)
+- decrease Maestro main app min-width to 400px (previously it was 812px)
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-5/Maestro-5.zip" length="46061888" type="application/octet-stream" sparkle:edSignature="i3HfetF02icSkNWM4scGbjAwA7CLbwKaORt/bojahagVcPBiETLS+hg2AQIGmUUuB5hcRwb9Fl2iKg31J3YiBQ=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-6/Maestro-6.zip" length="46079937" type="application/octet-stream" sparkle:edSignature="crJZobWgnMfCMDbnwSsi07WJo6n+qScVIHCT9xQhjA0jQRll9bTGxuisrYsDt2Yh9pUaFL+MsukTCVVfsK2nDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: qXUK1ZgWOEuzqK0iiQjA1FAiXw5zo5CLGL0hSEUTFW4GlE4es55sIzKc7dYhty4stvHRHKcDKzABdS5sCdLKDA==
-length: 2121
+edSignature: iOlNZ5ArZekS235sAbQE2xs6q4F8MW2S9PWIZF3nwk+c8/2dHLRsuUtRKGhOpk8jwhVMbhSVbgtfWcgCJjLrDQ==
+length: 1912
 -->
