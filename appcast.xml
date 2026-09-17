@@ -4,23 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.0.2</title>
-            <pubDate>Wed, 16 Sep 2026 20:58:17 -0700</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <title>1.0.3</title>
+            <pubDate>Wed, 16 Sep 2026 23:24:08 -0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.0.2
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.0.3
 
-- [MAE-89: import chat bugged](https://linear.app/maestro-will-dominate/issue/MAE-89/import-chat-bugged)
-- adjusted markdown prose color to a lighter gray
-- fixed clipping user bubble buttons
-- fixed composer not scaling in transript with zoom
+- [MAE-98: QoL: allow me to Command+A to select all text of my own text box](https://linear.app/maestro-will-dominate/issue/MAE-98/qol-allow-me-to-commanda-to-select-all-text-of-my-own-text-box)
+- [MAE-99: broken task status and loading indicators when message is queued](https://linear.app/maestro-will-dominate/issue/MAE-99/broken-task-status-and-loading-indicators-when-message-is-queued)
+- [MAE-100: auto update window + update now in-app](https://linear.app/maestro-will-dominate/issue/MAE-100/auto-update-window-update-now-in-app)
+- added traces in order to debug [MAE-92: widget lags some graphic applications (for now just Unity)](https://linear.app/maestro-will-dominate/issue/MAE-92/widget-lags-some-graphic-applications-for-now-just-unity) and [MAE-95: widget notification steals input focus](https://linear.app/maestro-will-dominate/issue/MAE-95/widget-notification-steals-input-focus)
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-4/Maestro-4.zip" length="45934327" type="application/octet-stream" sparkle:edSignature="8DWuUt77oeTYOnhEIPb4Q2/8XnewLaeUGIMyy8JU0i+5xsGeoPev+h2SkrOFR8UuZpSf5RlDpAda/USk19QNBQ=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-5/Maestro-5.zip" length="46061888" type="application/octet-stream" sparkle:edSignature="i3HfetF02icSkNWM4scGbjAwA7CLbwKaORt/bojahagVcPBiETLS+hg2AQIGmUUuB5hcRwb9Fl2iKg31J3YiBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: h33ZrFAvKVqfYNl/YtXGRLhQmCToSUP13KP0UV6v0dJM2VcO5TQfNASP5OeWgyoITe754MO1gmufOnZ3CvQdDQ==
-length: 1467
+edSignature: qXUK1ZgWOEuzqK0iiQjA1FAiXw5zo5CLGL0hSEUTFW4GlE4es55sIzKc7dYhty4stvHRHKcDKzABdS5sCdLKDA==
+length: 2121
 -->
