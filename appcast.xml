@@ -4,28 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Wed, 16 Sep 2026 18:53:07 -0700</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Wed, 16 Sep 2026 20:58:17 -0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.0.1
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.0.2
 
-- [MAE-73: slash commands only work if it is the first thing typed in composer notch](https://linear.app/maestro-will-dominate/issue/MAE-73/slash-commands-only-work-if-it-is-the-first-thing-typed-in-composer)
-- [MAE-82: OTA updates](https://linear.app/maestro-will-dominate/issue/MAE-82/ota-updates)
-- [MAE-84: allow scaling UI, preferrably via Command + (and the opposite ofc)](https://linear.app/maestro-will-dominate/issue/MAE-84/allow-scaling-ui-preferrably-via-command-and-the-opposite-ofc)
-- [MAE-85: text alignment is weird (using 2K monitor)](https://linear.app/maestro-will-dominate/issue/MAE-85/text-alignment-is-weird-using-2k-monitor)
-- [MAE-84: allow scaling UI, preferrably via Command + (and the opposite ofc)](https://linear.app/maestro-will-dominate/issue/MAE-84/allow-scaling-ui-preferrably-via-command-and-the-opposite-ofc)
-- [MAE-86: in conversation history, I'm able to see cot text (or related) instead of the user-facing AI response](https://linear.app/maestro-will-dominate/issue/MAE-86/in-conversation-history-im-able-to-see-cot-text-or-related-instead-of)
-- [MAE-80: allow users to click on attached docs to preview them](https://linear.app/maestro-will-dominate/issue/MAE-80/allow-users-to-click-on-attached-docs-to-preview-them)
-- [MAE-79: reasoning is the only button that doesnt tell me which reasoning level I'm currently using](https://linear.app/maestro-will-dominate/issue/MAE-79/reasoning-is-the-only-button-that-doesnt-tell-me-which-reasoning-level)
-- [MAE-75: markdown styling use azucar/or sf pro with kerning etc](https://linear.app/maestro-will-dominate/issue/MAE-75/markdown-styling-use-azucaror-sf-pro-with-kerning-etc)
+- [MAE-89: import chat bugged](https://linear.app/maestro-will-dominate/issue/MAE-89/import-chat-bugged)
+- adjusted markdown prose color to a lighter gray
+- fixed clipping user bubble buttons
+- fixed composer not scaling in transript with zoom
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-3/Maestro-3.zip" length="46105810" type="application/octet-stream" sparkle:edSignature="5dqOYcaieO+4FYzBCl6RzvDoRyJwg42S6jYNamrZbutRF5xa0M92v0YEva48UrTnxYyxY076PzSMukPgIZS7Ag=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-4/Maestro-4.zip" length="45934327" type="application/octet-stream" sparkle:edSignature="8DWuUt77oeTYOnhEIPb4Q2/8XnewLaeUGIMyy8JU0i+5xsGeoPev+h2SkrOFR8UuZpSf5RlDpAda/USk19QNBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Ut1U9tcapc5EAqPiCZx2Pp9qOOYy8L6lVsVEFBVwrlJJvPp4qHXx1b/9Z0T83AcSJNjXlfd2j5t/JqZ4dcLQAg==
-length: 2885
+edSignature: h33ZrFAvKVqfYNl/YtXGRLhQmCToSUP13KP0UV6v0dJM2VcO5TQfNASP5OeWgyoITe754MO1gmufOnZ3CvQdDQ==
+length: 1467
 -->
