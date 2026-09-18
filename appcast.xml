@@ -4,24 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.0.4</title>
-            <pubDate>Thu, 17 Sep 2026 11:21:06 -0700</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <title>1.0.5</title>
+            <pubDate>Thu, 17 Sep 2026 23:43:03 -0700</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.0.4
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.0.5
 
-- fix for cmd+a on chat screen
-- [MAE-104: Notch's 'open maestro' does not bring main app into view and focus sometimes](https://linear.app/maestro-will-dominate/issue/MAE-104/notchs-open-maestro-does-not-bring-main-app-into-view-and-focus)
-- [MAE-105: thumbnail drag & drop causes image preview to not working](https://linear.app/maestro-will-dominate/issue/MAE-105/thumbnail-drag-and-drop-causes-image-preview-to-not-working)
-- tentative fix + logs for [MAE-103: replaying markdown animation when opening task](https://linear.app/maestro-will-dominate/issue/MAE-103/replaying-markdown-animation-when-opening-task)
-- decrease Maestro main app min-width to 400px (previously it was 812px)
+- [MAE-102: transcript component coordinator for smooth animation and consistent spacing](https://linear.app/maestro-will-dominate/issue/MAE-102/transcript-component-coordinator-for-smooth-animation-and-consistent)
+- [MAE-110: do not automatically change task title when i manually change it](https://linear.app/maestro-will-dominate/issue/MAE-110/do-not-automatically-change-task-title-when-i-manually-change-it)
+- [MAE-109: same conversation appears twice in "import" menu](https://linear.app/maestro-will-dominate/issue/MAE-109/same-conversation-appears-twice-in-import-menu)
+- visual changes to task transcript, mainly on worked for accordion
+- some retouching on tab pill indicator
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-6/Maestro-6.zip" length="46079937" type="application/octet-stream" sparkle:edSignature="crJZobWgnMfCMDbnwSsi07WJo6n+qScVIHCT9xQhjA0jQRll9bTGxuisrYsDt2Yh9pUaFL+MsukTCVVfsK2nDg=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-7/Maestro-7.zip" length="49477504" type="application/octet-stream" sparkle:edSignature="JifERmkFwWBvAAkHFF/AHTHG0rxddOmvqhLgSJmDrczL8yEV+z+2IT8TB8rofjivaJVjMypcecnanNfTnDNkBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: iOlNZ5ArZekS235sAbQE2xs6q4F8MW2S9PWIZF3nwk+c8/2dHLRsuUtRKGhOpk8jwhVMbhSVbgtfWcgCJjLrDQ==
-length: 1912
+edSignature: kBPOUsmEx/U0sFseEhC/Ln2RoVkdOstDvBtwMS+5uw6m6kKfSvkRQp7E9I7tvmSx3WIXYFf3qxaBgYeUb5bOAA==
+length: 1910
 -->
