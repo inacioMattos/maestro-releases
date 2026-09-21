@@ -4,24 +4,39 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.0.5</title>
-            <pubDate>Thu, 17 Sep 2026 23:43:03 -0700</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <title>1.1.0</title>
+            <pubDate>Mon, 21 Sep 2026 12:23:35 -0700</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.0.5
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.1.0
 
-- [MAE-102: transcript component coordinator for smooth animation and consistent spacing](https://linear.app/maestro-will-dominate/issue/MAE-102/transcript-component-coordinator-for-smooth-animation-and-consistent)
-- [MAE-110: do not automatically change task title when i manually change it](https://linear.app/maestro-will-dominate/issue/MAE-110/do-not-automatically-change-task-title-when-i-manually-change-it)
-- [MAE-109: same conversation appears twice in "import" menu](https://linear.app/maestro-will-dominate/issue/MAE-109/same-conversation-appears-twice-in-import-menu)
-- visual changes to task transcript, mainly on worked for accordion
-- some retouching on tab pill indicator
+## biggest changes
+1. two new tab kinds: browser & terminal
+2. tab groups: you can create arbitrary groups of tabs
+3. improved split nagivation: up to 8 tabs in split mode. you can move tabs that are in the split by dragging them. you can do a quick fullscreen of a specific ta
+
+## new smaller features
+1. Sidebar Tidy: there is a button on the bottom right of the sidebar to "tidy" your sidebar using AI. it will create organize your sidebar for you (creating tab groups, moving tabs around, etc.). also whenever you create a new tab (task, terminal or browser), auto-tidy will automatically move the tab into the best tab group for you
+2. some other things im too lazy to write
+
+## bug fixes
+- [MAE-114: the clickable area for diagonal stretching in a floating window is too small](https://linear.app/maestro-will-dominate/issue/MAE-114/the-clickable-area-for-diagonal-stretching-in-a-floating-window-is-too)
+- [MAE-115: suggestion: persistence of screen state between restarts](https://linear.app/maestro-will-dominate/issue/MAE-115/suggestion-persistence-of-screen-state-between-restarts)
+- [MAE-130: agent not seeing attached zip](https://linear.app/maestro-will-dominate/issue/MAE-130/agent-not-seeing-attached-zip)
+- [MAE-128: opening "space settings" with this space selected brings me to first(default) space settings instead](https://linear.app/maestro-will-dominate/issue/MAE-128/opening-space-settings-with-this-space-selected-brings-me-to)
+- [MAE-129: i cant change the name of spaces](https://linear.app/maestro-will-dominate/issue/MAE-129/i-cant-change-the-name-of-spaces)
+- [MAE-118: derive created projects from imported sessions](https://linear.app/maestro-will-dominate/issue/MAE-118/derive-created-projects-from-imported-sessions)
+- [MAE-120: projects generated in a space X don't appear for quickselection after moved to space Y](https://linear.app/maestro-will-dominate/issue/MAE-120/projects-generated-in-a-space-x-dont-appear-for-quickselection-after)
+- [MAE-122: increase size of clickable area for these buttons](https://linear.app/maestro-will-dominate/issue/MAE-122/increase-size-of-clickable-area-for-these-buttons)
+- [MAE-121: allow me to move the whole project to a different workspace](https://linear.app/maestro-will-dominate/issue/MAE-121/allow-me-to-move-the-whole-project-to-a-different-workspace)
+- [MAE-90: first message I send on a new chat is not shown](https://linear.app/maestro-will-dominate/issue/MAE-90/first-message-i-send-on-a-new-chat-is-not-shown)
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-7/Maestro-7.zip" length="49477504" type="application/octet-stream" sparkle:edSignature="JifERmkFwWBvAAkHFF/AHTHG0rxddOmvqhLgSJmDrczL8yEV+z+2IT8TB8rofjivaJVjMypcecnanNfTnDNkBw=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-8/Maestro-8.zip" length="211608595" type="application/octet-stream" sparkle:edSignature="eE8UVDwPBaRaqst6pElbZmG5YduFrRLU5XliSfwC6r+I9y8gtmpbHPl2u3OurM1CpJC1VRXSBui2kxhcvTkeCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: kBPOUsmEx/U0sFseEhC/Ln2RoVkdOstDvBtwMS+5uw6m6kKfSvkRQp7E9I7tvmSx3WIXYFf3qxaBgYeUb5bOAA==
-length: 1910
+edSignature: NpiWuNzi8/MH2sHZc8Ct1dUlWLM5sWq5hlxdMV/ojW7+j2YjA4Jn2O5GfFr/dKMKn+jiGR+sGYGVJv6I2t/5Aw==
+length: 3721
 -->
