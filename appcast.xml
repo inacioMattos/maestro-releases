@@ -4,28 +4,29 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.1.1</title>
-            <pubDate>Thu, 24 Sep 2026 21:42:59 -0700</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <title>1.1.2</title>
+            <pubDate>Thu, 24 Sep 2026 22:07:54 -0700</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.1.1
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.1.2
 
 - [MAE-162: give me option to fullscreen/zoom in on rendered mermaid diagrams](https://linear.app/maestro-will-dominate/issue/MAE-162/give-me-option-to-fullscreenzoom-in-on-rendered-mermaid-diagrams)
 - [MAE-158: allow me to change leader/alt/modifier keys (and allow multi-key binding while at it)](https://linear.app/maestro-will-dominate/issue/MAE-158/allow-me-to-change-leaderaltmodifier-keys-and-allow-multi-key-binding)
+g)
 - [MAE-157: disable option + number for history and import from cli](https://linear.app/maestro-will-dominate/issue/MAE-157/disable-option-number-for-history-and-import-from-cli)
-- [MAE-154: when dragging tabs, allow me to press "Esc" to cancel action](https://linear.app/maestro-will-dominate/issue/MAE-154/when-dragging-tabs-allow-me-to-press-esc-to-cancel-action)
+
+- - [MAE-154: when dragging tabs, allow me to press "Esc" to cancel action](https://linear.app/maestro-will-dominate/issue/MAE-154/when-dragging-tabs-allow-me-to-press-esc-to-cancel-action)
 - [MAE-131: "Image not available"](https://linear.app/maestro-will-dominate/issue/MAE-131/image-not-available)
-- [MAE-160: basic mcp first-party support](https://linear.app/maestro-will-dominate/issue/MAE-160/basic-mcp-first-party-support)
+- - [MAE-160: basic mcp first-party support](https://linear.app/maestro-will-dominate/issue/MAE-160/basic-mcp-first-party-support)
 - [MAE-161: option+m to open and bring focus to main maestro window](https://linear.app/maestro-will-dominate/issue/MAE-161/optionm-to-open-and-bring-focus-to-main-maestro-window)
-- 
 - [MAE-112: context meter has suspicious color choice](https://linear.app/maestro-will-dominate/issue/MAE-112/context-meter-has-suspicious-color-choice)
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-9/Maestro-9.zip" length="212407159" type="application/octet-stream" sparkle:edSignature="h5pWK3jg0EGWcKPkGmZ1x8D8zDLE5ADh5sw9fA8L/uD4UR4BD45LbxpDz0Cmyyz8koGoylf6Js6I202T+vkuAg=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-10/Maestro-10.zip" length="212093052" type="application/octet-stream" sparkle:edSignature="5jNuYNvslnKbFNvhwXypWdcea+RkYPu/28MExF/TtUTKqNTXF1AmAVLPsQlV6WWc+s1PidkZZYLKIsW5/URfBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: G1ePQygbuJrsPh3HfSkXaOo5soLzSBRfSsW1s3dkn3zM1ttOFSKyJJY6oRcNSX5pSbog3d4oKlk/DViy02J5Bg==
-length: 2592
+edSignature: M+grlBQnK2gUrkGqnzAMcD/Vx5CLSlKoPgLVhMuFPkPhNERrw2s6UD3aEp5wS/loyB/9vkY16DpDYg75AcB5CA==
+length: 2600
 -->
