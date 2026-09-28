@@ -4,29 +4,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.1.2</title>
-            <pubDate>Thu, 24 Sep 2026 22:07:54 -0700</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <title>1.1.3</title>
+            <pubDate>Sun, 27 Sep 2026 19:06:48 -0700</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.1.2
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.1.3
 
-- [MAE-162: give me option to fullscreen/zoom in on rendered mermaid diagrams](https://linear.app/maestro-will-dominate/issue/MAE-162/give-me-option-to-fullscreenzoom-in-on-rendered-mermaid-diagrams)
-- [MAE-158: allow me to change leader/alt/modifier keys (and allow multi-key binding while at it)](https://linear.app/maestro-will-dominate/issue/MAE-158/allow-me-to-change-leaderaltmodifier-keys-and-allow-multi-key-binding)
-g)
-- [MAE-157: disable option + number for history and import from cli](https://linear.app/maestro-will-dominate/issue/MAE-157/disable-option-number-for-history-and-import-from-cli)
+some initial all-around perf improvements for maestro + small QoL and bug fixes
 
-- - [MAE-154: when dragging tabs, allow me to press "Esc" to cancel action](https://linear.app/maestro-will-dominate/issue/MAE-154/when-dragging-tabs-allow-me-to-press-esc-to-cancel-action)
+- [MAE-188: corrupted conversation](https://linear.app/maestro-will-dominate/issue/MAE-188/corrupted-conversation)
+- [MAE-185: window moving when it should be resizing](https://linear.app/maestro-will-dominate/issue/MAE-185/window-moving-when-it-should-be-resizing)
+- [MAE-167: make it so tabs inside hidden groups do not get counted for Option+Number navigation](https://linear.app/maestro-will-dominate/issue/MAE-167/make-it-so-tabs-inside-hidden-groups-do-not-get-counted-for)
+- [MAE-184: new terminal being ready instantly](https://linear.app/maestro-will-dominate/issue/MAE-184/new-terminal-being-ready-instantly)
 - [MAE-131: "Image not available"](https://linear.app/maestro-will-dominate/issue/MAE-131/image-not-available)
-- - [MAE-160: basic mcp first-party support](https://linear.app/maestro-will-dominate/issue/MAE-160/basic-mcp-first-party-support)
-- [MAE-161: option+m to open and bring focus to main maestro window](https://linear.app/maestro-will-dominate/issue/MAE-161/optionm-to-open-and-bring-focus-to-main-maestro-window)
-- [MAE-112: context meter has suspicious color choice](https://linear.app/maestro-will-dominate/issue/MAE-112/context-meter-has-suspicious-color-choice)
+- [MAE-183: auto focus on input on maestro main window focus](https://linear.app/maestro-will-dominate/issue/MAE-183/auto-focus-on-input-on-maestro-main-window-focus)
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-10/Maestro-10.zip" length="212093052" type="application/octet-stream" sparkle:edSignature="5jNuYNvslnKbFNvhwXypWdcea+RkYPu/28MExF/TtUTKqNTXF1AmAVLPsQlV6WWc+s1PidkZZYLKIsW5/URfBw=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-11/Maestro-11.zip" length="212577500" type="application/octet-stream" sparkle:edSignature="njxMARhjjUNf1rW+5uElMDFVqj8u2qjWkq0NhGb6UPeqUomDG2T4vBZjk4GMstNRrKvRiWQuR1QQ7gL0sfeSCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: M+grlBQnK2gUrkGqnzAMcD/Vx5CLSlKoPgLVhMuFPkPhNERrw2s6UD3aEp5wS/loyB/9vkY16DpDYg75AcB5CA==
-length: 2600
+edSignature: ceIMuteiltWDmrdWS57CUbInX1Z9MF12SW30NEsoEV4iYi+wqCWIvzJb3q1cpQve7TLX5LNMDiSVy8HQyYJZAg==
+length: 2205
 -->
