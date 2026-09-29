@@ -4,27 +4,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.1.3</title>
-            <pubDate>Sun, 27 Sep 2026 19:06:48 -0700</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            <title>1.1.4</title>
+            <pubDate>Tue, 29 Sep 2026 07:57:00 -0700</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.1.3
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.1.4
 
-some initial all-around perf improvements for maestro + small QoL and bug fixes
+## command palette! (cmd + k)
 
-- [MAE-188: corrupted conversation](https://linear.app/maestro-will-dominate/issue/MAE-188/corrupted-conversation)
-- [MAE-185: window moving when it should be resizing](https://linear.app/maestro-will-dominate/issue/MAE-185/window-moving-when-it-should-be-resizing)
-- [MAE-167: make it so tabs inside hidden groups do not get counted for Option+Number navigation](https://linear.app/maestro-will-dominate/issue/MAE-167/make-it-so-tabs-inside-hidden-groups-do-not-get-counted-for)
-- [MAE-184: new terminal being ready instantly](https://linear.app/maestro-will-dominate/issue/MAE-184/new-terminal-being-ready-instantly)
-- [MAE-131: "Image not available"](https://linear.app/maestro-will-dominate/issue/MAE-131/image-not-available)
-- [MAE-183: auto focus on input on maestro main window focus](https://linear.app/maestro-will-dominate/issue/MAE-183/auto-focus-on-input-on-maestro-main-window-focus)
+also some other small things that improve how it feels to use maestro:
+- [MAE-32: on new message scroll it up to top](https://linear.app/maestro-will-dominate/issue/MAE-32/on-new-message-scroll-it-up-to-top)
+- [MAE-197: remove worked for separator until the appearance of final answer](https://linear.app/maestro-will-dominate/issue/MAE-197/remove-worked-for-separator-until-the-appearance-of-final-answer)
+- [MAE-190: cannot scroll chat when mouse is over code block or html](https://linear.app/maestro-will-dominate/issue/MAE-190/cannot-scroll-chat-when-mouse-is-over-code-block-or-html)
+- [MAE-165: swiftdown visual bug with inline code snippets where the background appears immediately before the animation](https://linear.app/maestro-will-dominate/issue/MAE-165/swiftdown-visual-bug-with-inline-code-snippets-where-the-background)
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-11/Maestro-11.zip" length="212577500" type="application/octet-stream" sparkle:edSignature="njxMARhjjUNf1rW+5uElMDFVqj8u2qjWkq0NhGb6UPeqUomDG2T4vBZjk4GMstNRrKvRiWQuR1QQ7gL0sfeSCQ=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-12/Maestro-12.zip" length="212918959" type="application/octet-stream" sparkle:edSignature="SYBiaCeU3Jf1f2Mj6ASND0liJs11a+bTtB5Yie4xlGkS6KkcWVz9ZhWxRQcoVReJnxDkOFj8jC1APJzfiAqZAA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ceIMuteiltWDmrdWS57CUbInX1Z9MF12SW30NEsoEV4iYi+wqCWIvzJb3q1cpQve7TLX5LNMDiSVy8HQyYJZAg==
-length: 2205
+edSignature: Xrb2czaIYldVWCGI0c8+dB3r5vLRYGWH2wjGO2ZJ9oByBjb9baxyQrlwKFGIErZJelxH0aF8RHnQwxkBfxK2CQ==
+length: 2094
 -->
