@@ -4,26 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.1.4</title>
-            <pubDate>Tue, 29 Sep 2026 07:57:00 -0700</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <title>1.1.5</title>
+            <pubDate>Wed, 30 Sep 2026 14:06:23 -0700</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.1.4
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.1.5
 
-## command palette! (cmd + k)
-
-also some other small things that improve how it feels to use maestro:
-- [MAE-32: on new message scroll it up to top](https://linear.app/maestro-will-dominate/issue/MAE-32/on-new-message-scroll-it-up-to-top)
-- [MAE-197: remove worked for separator until the appearance of final answer](https://linear.app/maestro-will-dominate/issue/MAE-197/remove-worked-for-separator-until-the-appearance-of-final-answer)
-- [MAE-190: cannot scroll chat when mouse is over code block or html](https://linear.app/maestro-will-dominate/issue/MAE-190/cannot-scroll-chat-when-mouse-is-over-code-block-or-html)
-- [MAE-165: swiftdown visual bug with inline code snippets where the background appears immediately before the animation](https://linear.app/maestro-will-dominate/issue/MAE-165/swiftdown-visual-bug-with-inline-code-snippets-where-the-background)
+### create new task easy workflow through cmd+k (command palette)
+- fork chats (hover over a AI message turn and click on the fork button below the message)
+- some other smaller QoL and fixes
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-12/Maestro-12.zip" length="212918959" type="application/octet-stream" sparkle:edSignature="SYBiaCeU3Jf1f2Mj6ASND0liJs11a+bTtB5Yie4xlGkS6KkcWVz9ZhWxRQcoVReJnxDkOFj8jC1APJzfiAqZAA=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-13/Maestro-13.zip" length="213113279" type="application/octet-stream" sparkle:edSignature="y1hMVogl9sFhl1q/c7VBib+8b7VlLLIyVqBZBQM9PK6Ho60jAhLtuAqR4ZF9tqFxG3UFzDE5TEk8tT+EaPBJAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Xrb2czaIYldVWCGI0c8+dB3r5vLRYGWH2wjGO2ZJ9oByBjb9baxyQrlwKFGIErZJelxH0aF8RHnQwxkBfxK2CQ==
-length: 2094
+edSignature: Ekqwqp6WfQ65kHIjtvvnpRD7puVklyTASIqj2ghh7n15Fi3RIzxfXpKgpfhslDBS70gvJwakgIYktMfHziTFCw==
+length: 1419
 -->
