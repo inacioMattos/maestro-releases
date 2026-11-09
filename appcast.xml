@@ -4,20 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.2.0</title>
-            <pubDate>Thu, 05 Nov 2026 11:57:05 -0700</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <title>1.2.1</title>
+            <pubDate>Mon, 09 Nov 2026 09:32:23 -0700</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.0
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.1
 
-- some perf improvements
+- [MAE-244: random crash while typing in Command+Command binding](https://linear.app/maestro-will-dominate/issue/MAE-244/random-crash-while-typing-in-commandcommand-binding)
+- fixed an old update issue
+- some other stuff
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-14/Maestro-14.zip" length="277039255" type="application/octet-stream" sparkle:edSignature="kEOervGjte6LE9zugJXXYByPwaYdbnkIyAqGQqLrbeYODvEsdbhhVTSkymvbtQPEpy2BqC58vQFvGcdbxMsxBQ=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-15/Maestro-15.zip" length="277055148" type="application/octet-stream" sparkle:edSignature="ukHTbXNVtgqXQruCJqXnJfiBV6h27EqGyQi3A/4T6P7IrCZz4daoh6t3cbuwhAWzadMvLXjipfQIH/H8RjRADA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: EisWogaXy2wDgKYvZHn+MXnQPz6tRjYswg44yoJfJNxsoZgjDAKvDF0yrUL+8wGuEmN3VaMe1O7E7Rng4VDPAA==
-length: 1252
+edSignature: vj8+UpGCssd4tNRGLof5LwjXK0RlHhPsCcHi6z/jVp7ecRpIybU1TVIJqE3z5glCCfGISTER3zyaEBCHWneYCQ==
+length: 1448
 -->
