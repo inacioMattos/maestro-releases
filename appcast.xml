@@ -4,24 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.2.3</title>
-            <pubDate>Tue, 10 Nov 2026 22:37:24 -0700</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <title>1.2.4</title>
+            <pubDate>Thu, 12 Nov 2026 11:55:50 -0700</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.3
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.4
 
-- [MAE-253: scrolling is choppy even on a small chat](https://linear.app/maestro-will-dominate/issue/MAE-253/scrolling-is-choppy-even-on-a-small-chat)
-- [MAE-254: allow me to control permissions (e.g. auto/always allow)](https://linear.app/maestro-will-dominate/issue/MAE-254/allow-me-to-control-permissions-eg-autoalways-allow)
-- better perf on diff pane
-- better perf on guided reviews
-- **IN-APP BUG REPORTER**: cmd+k -> "Report a bug..." -> will go directly to Linear alongside diagnostics and performance (optional)
+- [MAE-259: Guided change crashed or stopped working](https://linear.app/maestro-will-dominate/issue/MAE-259/guided-change-crashed-or-stopped-working)
+- polished adding diff comment and diff comment widget on the chat. also better performance on those
+- better highlighter effect on markdown comments
+- two new themes: **Tokyo** (dark mode) & **Mainframe** (light mode)
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-17/Maestro-17.zip" length="277809694" type="application/octet-stream" sparkle:edSignature="BBN/AnWbtVt2eGKGE8FKURFDFTQfTcqO1o4gRp6IEyXIQB40RhCZfYRCvQU1CeO8vx4oX81gaS6ABfb+hHVTBg=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-18/Maestro-18.zip" length="277940033" type="application/octet-stream" sparkle:edSignature="bqNnBasPN8kURoDJUgYMe2NGkuhjCx8mceSApJHqKawZA7VQeNN/SJIdhNXncnPU5h4uJ9k0KCjKCVyFCDK2Bw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: UYD30jJrrrMuuRCXL00JoKdiL/CnESLzx5l08QsSvSyKXAskVdt+w2b5M2/ErcZ/FCMR2TnpM9UjvsZvRjU7Aw==
-length: 1748
+edSignature: OPt0XaKWbrVQf5LYnMsdwS96n5JUnRv/0e1jhLRfQ5OVFlTR3aKaJ85tz5Q36XITP7jqFxWEGlGpEcKvm/mJBQ==
+length: 1597
 -->
