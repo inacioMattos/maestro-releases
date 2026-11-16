@@ -4,23 +4,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.2.4</title>
-            <pubDate>Thu, 12 Nov 2026 11:55:50 -0700</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+            <title>1.2.5</title>
+            <pubDate>Sun, 15 Nov 2026 20:26:06 -0700</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.4
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.5
 
-- [MAE-259: Guided change crashed or stopped working](https://linear.app/maestro-will-dominate/issue/MAE-259/guided-change-crashed-or-stopped-working)
-- polished adding diff comment and diff comment widget on the chat. also better performance on those
-- better highlighter effect on markdown comments
-- two new themes: **Tokyo** (dark mode) & **Mainframe** (light mode)
+- jump to bottom
+- annotations
+- new permission cards
+- guided reviews
+  - overview section
+  - kick off guided review screen
+- revamped diff pane files changed tab
+- slightly revamped diff pane comments ta
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-18/Maestro-18.zip" length="277940033" type="application/octet-stream" sparkle:edSignature="bqNnBasPN8kURoDJUgYMe2NGkuhjCx8mceSApJHqKawZA7VQeNN/SJIdhNXncnPU5h4uJ9k0KCjKCVyFCDK2Bw=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-19/Maestro-19.zip" length="279623629" type="application/octet-stream" sparkle:edSignature="uesm7FKD+Dtc8QQfgk7EIsddv5Hrk3JWSQHq2Mn/8YAOGN2MjUoQAmV4uE4c1VUq/JnGkHreIU28ufgqNWnmDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: OPt0XaKWbrVQf5LYnMsdwS96n5JUnRv/0e1jhLRfQ5OVFlTR3aKaJ85tz5Q36XITP7jqFxWEGlGpEcKvm/mJBQ==
-length: 1597
+edSignature: f6JwbNK9+Ot2D7dYbT0HSqKjljVYQD5T5uS7qSYUu492rpOSpp95dQJ+eZbnvIXptOXPJ3XZMtiwkWytgsiFDg==
+length: 1434
 -->
