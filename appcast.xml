@@ -4,27 +4,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.2.5</title>
-            <pubDate>Sun, 15 Nov 2026 20:26:06 -0700</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
+            <title>1.2.6</title>
+            <pubDate>Tue, 17 Nov 2026 07:29:26 -0700</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.2.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.5
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.6
 
-- jump to bottom
-- annotations
-- new permission cards
-- guided reviews
-  - overview section
-  - kick off guided review screen
-- revamped diff pane files changed tab
-- slightly revamped diff pane comments ta
+- [MAE-279: fix memory and leaks](https://linear.app/maestro-will-dominate/issue/MAE-279/fix-memory-and-leaks)
+- [MAE-280: approvalPolicy: "never" for codex guided reviews for some reason](https://linear.app/maestro-will-dominate/issue/MAE-280/approvalpolicy-never-for-codex-guided-reviews-for-some-reason)
+- [MAE-278: cursor restoration is broken](https://linear.app/maestro-will-dominate/issue/MAE-278/cursor-restoration-is-broken)
+- [MAE-277: terminal focus events from tmux are broken](https://linear.app/maestro-will-dominate/issue/MAE-277/terminal-focus-events-from-tmux-are-broken)
+- annotation popup morphs into annotation input
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-19/Maestro-19.zip" length="279623629" type="application/octet-stream" sparkle:edSignature="uesm7FKD+Dtc8QQfgk7EIsddv5Hrk3JWSQHq2Mn/8YAOGN2MjUoQAmV4uE4c1VUq/JnGkHreIU28ufgqNWnmDw=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-20/Maestro-20.zip" length="279678703" type="application/octet-stream" sparkle:edSignature="e7T18VQbve6UfG35kCEgnAXIdmZApHSKaH2dzfgGCkMjpWpF694ocwlGC1OgEAY7xmLeS06n8qAuK1gNo2xcAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: f6JwbNK9+Ot2D7dYbT0HSqKjljVYQD5T5uS7qSYUu492rpOSpp95dQJ+eZbnvIXptOXPJ3XZMtiwkWytgsiFDg==
-length: 1434
+edSignature: pNgi31SfAx6bngh85VNpNqKeCmZ6Vcr3oiMgf8p756i49UJvy9t1FmKnlFcB8hYGxSmuhFIqpqXh9a3Qr/D9Cg==
+length: 1864
 -->
