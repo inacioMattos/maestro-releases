@@ -4,20 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.2.7</title>
-            <pubDate>Wed, 18 Nov 2026 12:44:37 -0700</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
+            <title>1.2.8</title>
+            <pubDate>Sat, 21 Nov 2026 17:00:18 -0700</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.7
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.8
 
-- fixed bug where if claude code was in a symlink dir, maestro would fail cc oauth
+a lot idk
+/
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-21/Maestro-21.zip" length="279678837" type="application/octet-stream" sparkle:edSignature="6N1pAe0SzUoe20R+syZcr/Ixr0K4x8JQLB2Pf6erFStxmLmLoNfqvPFkFiKqy2ff1qLC/ztraAA1X+Xzjdz1Aw=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-23/Maestro-23.zip" length="280500939" type="application/octet-stream" sparkle:edSignature="+nRBuHIt8Zzs2rKUS3WiTGTCnCSLaLOCB4bl+sbIGDa2jCD2inC7YQ1biTFBO95xf3gCoayOLXSqUGR7+pKuCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: cWCMU42GEovt1c6VhMVLGDmNJ4WyHaxsoGxgIuS+YkRAw50NiLsGs+eUVmqDeB0oDwvvumeKJiYO9smM//7PAQ==
-length: 1310
+edSignature: e6/y+mo2iEA1r452z5HODsuuVOhHPs0JhuFFGeBreH8KRGpYp6t/mUgXe+xJDPeOwHU1uwwc6uemf7c59WUjAQ==
+length: 1239
 -->
