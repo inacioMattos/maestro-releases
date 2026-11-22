@@ -4,20 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.2.9</title>
-            <pubDate>Sat, 21 Nov 2026 21:43:50 -0700</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
+            <title>1.2.10</title>
+            <pubDate>Sat, 21 Nov 2026 22:14:06 -0700</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.2.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.9
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.10
 
-idk joao did a lot of stuff       ask him i guess
+- joao added a backdoor
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-24/Maestro-24.zip" length="280610774" type="application/octet-stream" sparkle:edSignature="kFtLmuvB3Vrd+Pa0Ebf1y77y5oUoPyXfpSIIB5nP/bKfvAQCzUgYeRNmiW+3xqy8nyymMyaAuX/bFiW0MVw2BQ=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-25/Maestro-25.zip" length="286567185" type="application/octet-stream" sparkle:edSignature="PwvtpZc/TkAzBg+59Qow7NLZglSMMwolIpjF7pE4dXHzK0UAAPBLS+ietnxg+xIkgZx15b1lBPiLzVt/dk17Bw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: EQgHl2L5gP1+pHxeuCaVhvZKo2id27gXY/EghPzAqnJD10jWGyNpuGtOJjNfvhTqbKNwe3IEtWn9eAqfSvS5BQ==
-length: 1277
+edSignature: 8N1zhIjy6ke3LM1ArAVMNuQl0zgga1b6YW06Ct/byf5AsS6HzkqrP+WUUsshDUvsV/rO/JdsPniJlJH/gabxBA==
+length: 1254
 -->
