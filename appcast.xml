@@ -4,21 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.2.13</title>
-            <pubDate>Sun, 22 Nov 2026 17:54:37 -0700</pubDate>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>1.2.13</sparkle:shortVersionString>
+            <title>1.2.14</title>
+            <pubDate>Mon, 23 Nov 2026 09:29:00 -0700</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.2.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.13
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.14
 
-- antigravity runtime support
-- native file viewers (this is not done im just adding in the update because I wanna use in my amazon laptop, but please lets not add tickets on linear about this until the next version which will be ready for comments)
+continued work on native file viewers
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-29/Maestro-29.zip" length="290967282" type="application/octet-stream" sparkle:edSignature="eBB+6cT3Pbb5EXq4Z3veKjkZQRAf79x05V9ly5VZcQVFE1AABrGGvDOPvoW0cuP0CL9Jb0AySSSbjJn6xLfzAQ=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-30/Maestro-30.zip" length="291074789" type="application/octet-stream" sparkle:edSignature="eAxDyYABm+v3Du7OkThIaEHe/ETK+1scAJgAFUMRLmJts0iabZOlW9eE25Q6MUNFzzBhdPNiwfLzo7Rekvj6CA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 7O6iFxEQZiAJKkyvNQkduMpEmTANc6VAhD1XqeBjmu/os11Lm5ywDWcDX9zj1niLKm8KpKOKL5tZvryty0hGBQ==
-length: 1480
+edSignature: h6GxPOQkw05lx/ayWCpZ5CzEJNpAP5pL0sgJvqU0+qFXka6hAw/UzrlrjzQhH3QGqOHKHMblm4tvQvhKkjoIBQ==
+length: 1268
 -->
