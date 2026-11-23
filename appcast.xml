@@ -4,20 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.2.12</title>
-            <pubDate>Sun, 22 Nov 2026 01:14:12 -0700</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>1.2.12</sparkle:shortVersionString>
+            <title>1.2.13</title>
+            <pubDate>Sun, 22 Nov 2026 17:54:37 -0700</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.2.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.12
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.13
 
-bye bye cloud agents
+- antigravity runtime support
+- native file viewers (this is not done im just adding in the update because I wanna use in my amazon laptop, but please lets not add tickets on linear about this until the next version which will be ready for comments)
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-27/Maestro-27.zip" length="290356433" type="application/octet-stream" sparkle:edSignature="5W4uenkyDPbDi0L9/UDAL2V76NQuiubF05B3vnYT6W9VOZj5Zyzdh31v+VK4AjEZqL/Z3pjlwsmmR96FGs+8Ag=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-29/Maestro-29.zip" length="290967282" type="application/octet-stream" sparkle:edSignature="eBB+6cT3Pbb5EXq4Z3veKjkZQRAf79x05V9ly5VZcQVFE1AABrGGvDOPvoW0cuP0CL9Jb0AySSSbjJn6xLfzAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: A9SPabdlgbldxfoWiNPzDxpanH2iaaU9ype+yOhgMcE6J9j83zro5ch4l6+jv1GialYMaGFoNneTd43XAccMDw==
-length: 1251
+edSignature: 7O6iFxEQZiAJKkyvNQkduMpEmTANc6VAhD1XqeBjmu/os11Lm5ywDWcDX9zj1niLKm8KpKOKL5tZvryty0hGBQ==
+length: 1480
 -->
