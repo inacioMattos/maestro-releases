@@ -4,20 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Maestro</title>
         <item>
-            <title>1.2.14</title>
-            <pubDate>Mon, 23 Nov 2026 09:29:00 -0700</pubDate>
-            <sparkle:version>30</sparkle:version>
-            <sparkle:shortVersionString>1.2.14</sparkle:shortVersionString>
+            <title>1.2.15</title>
+            <pubDate>Fri, 27 Nov 2026 17:42:32 -0700</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.2.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.14
+            <description sparkle:format="markdown"><![CDATA[# Maestro 1.2.15
 
-continued work on native file viewers
+- remote connections alpha
+- some other bugfixes
 ]]></description>
-            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-30/Maestro-30.zip" length="291074789" type="application/octet-stream" sparkle:edSignature="eAxDyYABm+v3Du7OkThIaEHe/ETK+1scAJgAFUMRLmJts0iabZOlW9eE25Q6MUNFzzBhdPNiwfLzo7Rekvj6CA=="></enclosure>
+            <enclosure url="https://github.com/inacioMattos/maestro-releases/releases/download/build-31/Maestro-31.zip" length="292218674" type="application/octet-stream" sparkle:edSignature="nkLT9Y1dSOY4EF1KwN2urwlxsemWIv23lab6aAD8/+B3hmNtruE7yLycGnWqDUvJrb74B9yqt1APcw5+1oSADA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: h6GxPOQkw05lx/ayWCpZ5CzEJNpAP5pL0sgJvqU0+qFXka6hAw/UzrlrjzQhH3QGqOHKHMblm4tvQvhKkjoIBQ==
-length: 1268
+edSignature: 0rfoLeDuTrMM2QseAL7ell942yi+DiOOukLtzyeZRLW0yvmkPDNUx9h/jhbSFA4tZ5azOce+KvMLlFi/pt0HCw==
+length: 1279
 -->
